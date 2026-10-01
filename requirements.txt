@@ -1,0 +1,7 @@
+backtrader>=1.9.78
+yfinance>=1.0
+pandas>=2.2
+pyarrow>=15
+matplotlib>=3.8
+tabulate>=0.9
+pytest>=8
